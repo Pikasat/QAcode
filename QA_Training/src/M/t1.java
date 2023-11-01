@@ -11,7 +11,7 @@ public class t1 {
 		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver.exe");
         ChromeDriver browserObject = new ChromeDriver();
         
-	// 3. Open the http://www.google.com/ link using get method.
+	// 3. Open the Webpage link using get method.
         
         browserObject.get("https://vcwnorthern.com");
         

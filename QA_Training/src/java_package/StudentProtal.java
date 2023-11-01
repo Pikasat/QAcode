@@ -17,9 +17,9 @@ public class StudentProtal extends StudentProfile {
 {
 	private int id ;
 	
-	void settterId(int a)
+	void settterId(int id)
 	{
-		id=a;
+		this.id=id;
 	}
 	
 	int getterId()
